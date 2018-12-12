@@ -1,5 +1,5 @@
-This is version 3 (or communal version) of CASCADE which I suggest we
-call CASCADE98.
+This is version 4 (or communal version) of CASCADE which I suggest we
+call CASCADE2000.
 
 To compile:
 
@@ -17,10 +17,6 @@ developed by Malcolm Sambridge and Jean Braun. If you want your version of
 CASCADE to remain compatile with further development of these libraries
 by the authors, do not attempt to modify them; let us know if there is
 a bug...
-
-This third version has emerged after discussion at a meeting in June 1998
-in Halifax between Jean Braun, Chris Beaumont, Philippe Fullsack, Nichole
-Deyoung  and Sean Willett.
 
 It is hard to really define what is modified in this version because
 I went through a large number of items requested from all in the group.
@@ -76,4 +72,4 @@ well as provide the new code IN A SUBROUTINE/FUNCTION.
 Thank you for your feedback,
 
 Jean Braun
-Canberra August 27, 1998
+Canberra 2000

@@ -74,15 +74,6 @@ c cascade has the possibility of including a stratified crust with
 c regards to erosional parameters
 c Developed by Peter van der Beek, April '96
 
-c IMPORTANT NOTE:
-c****************
-c Please, note that this software CANNOT be freely distributed. You must
-c obtain Jean Braun's permission to use it (or part of it) or to give to other
-c potential users. Please, respect this condition of use. I am trying to 
-c protect parts of the Delaunay/Voronoi algorithms that we are using in a
-c commercial venture with Malcolm Sambridge. This means that some of our
-c "clients" had to pay to use this software commercially.
-
 c Good luck.
 
 c--------------------------------------------------------------------------
